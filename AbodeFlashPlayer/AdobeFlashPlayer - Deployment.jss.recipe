@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.AdobeFlashPlayer - Deployment</string>
+	<string>com.criteo.jss.AdobeFlashPlayer - Deployment</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

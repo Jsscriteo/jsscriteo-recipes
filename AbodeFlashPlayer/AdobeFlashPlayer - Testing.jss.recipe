@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.AdobeFlashPlayer - Testing</string>
+	<string>com.criteo.jss.AdobeFlashPlayer - Update Process</string>
 	<key>Input</key>
 	<dict>
 		<key>NAMESELF</key>
