@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>local.jss.AdobeFlashPlayer - Testing</string>
+	<key>Input</key>
+	<dict>
+		<key>NAMESELF</key>
+	    <string>Adobe Flash Player</string>
+		<key>CATEGORY</key>
+		<string>Internet</string>
+		<key>GROUP_NAME</key>
+		<string>AutoPkgr Testing %NAME%</string>
+		<key>GROUP_TEMPLATE</key>
+		<string>AdobeFlashPlayerSmartGroupTemplateTest.xml</string>
+		<key>POLICY_CATEGORY</key>
+		<string>Update Testing</string>
+		<key>POLICY_TEMPLATE</key>
+		<string>AutoPkgrTestingPolicyTemplate.xml</string>
+		<key>SELF_SERVICE_DESCRIPTION</key>
+		<string>Adobe Flash Player is freeware software for using content created on the Adobe Flash platform, including viewing multimedia, executing rich Internet applications, and streaming video and audio.</string>
+		<key>SELF_SERVICE_ICON</key>
+		<string>AdobeFlashPlayer.png</string>
+	</dict>
+	<key>ParentRecipe</key>
+	<string>com.github.jss-recipes.jss.AdobeFlashPlayer</string>
+</dict>
+</plist>
