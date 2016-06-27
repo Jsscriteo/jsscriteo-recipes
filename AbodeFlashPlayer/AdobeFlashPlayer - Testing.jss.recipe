@@ -11,11 +11,11 @@
 		<key>CATEGORY</key>
 		<string>Internet</string>
 		<key>GROUP_NAME</key>
-		<string>AutoPkgr Testing %NAME%</string>
+		<string>AutoPkgr %NAME% SelfService</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>AdobeFlashPlayerSmartGroupTemplateTest.xml</string>
 		<key>POLICY_CATEGORY</key>
-		<string>Update Testing</string>
+		<string>Update APP</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>AutoPkgrTestingPolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
