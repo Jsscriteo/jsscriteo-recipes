@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>com.criteo.jss.AdobeFlashPlayer - Deployment</string>
+	<key>Input</key>
+	<dict>
+		<key>CATEGORY</key>
+		<string>Internet</string>
+		<key>GROUP_NAME</key>
+		<string>AutoPkgr Deploy %NAME%</string>
+		<key>GROUP_TEMPLATE</key>
+		<string>AdobeFlashPlayerSmartGroupTemplateImaging.xml</string>
+		<key>NAME</key>
+		<string>AdobeFlashPlayer</string>
+		<key>POLICY_CATEGORY</key>
+		<string>Internet</string>
+		<key>POLICY_TEMPLATE</key>
+		<string>AutoPkgrPolicyTemplateImaging.xml</string>
+		<key>pkg_path</key>
+		<string/>
+	</dict>
+	<key>ParentRecipe</key>
+	<string>com.github.jss-recipes.jss.AdobeFlashPlayer</string>
+</dict>
+</plist>

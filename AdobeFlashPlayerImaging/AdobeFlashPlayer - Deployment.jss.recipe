@@ -11,13 +11,13 @@
 		<key>GROUP_NAME</key>
 		<string>AutoPkgr Deploy %NAME%</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>AdobeFlashPlayerSmartGroupTemplateDeploy.xml</string>
+		<string>AdobeFlashPlayerSmartGroupTemplateImaging.xml</string>
 		<key>NAME</key>
 		<string>AdobeFlashPlayer</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Internet</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>AutoPkgrDeployPolicyTemplate.xml</string>
+		<string>AutoPkgrPolicyTemplateImaging.xml</string>
 		<key>pkg_path</key>
 		<string/>
 	</dict>
