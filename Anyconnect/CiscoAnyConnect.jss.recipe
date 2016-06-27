@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Imports AnyConnect into JSS. Note this package works with newer flat packages. Also note it disables the Web Security module via installer choices XML.</string>
 	<key>Identifier</key>
-	<string>com.criteo.jss.bluejeans</string>
+	<string>com.criteo.jss.CiscoAnnyConnect</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
